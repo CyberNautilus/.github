@@ -25,20 +25,20 @@ BeetleBox Studios is a creative team based in Philadelphia, developing interacti
   </tr>
 
   <tr>
-    <td><strong>Concept art</strong></td>
-    <td>
-      <a href="https://x.com/AnglerFishart13" text-decoration:none;">
-        Anglerfishart
-      </a>
-    </td>
-    <td>Collaborator</td>
-  </tr>
-
-  <tr>
     <td><strong>Programming</strong></td>
     <td>
       <a href="https://github.com/Ryan-Brosius" text-decoration:none;">
         Ryan
+      </a>
+    </td>
+    <td>Founding member</td>
+  </tr>
+
+  <tr>
+    <td><strong>Concept art</strong></td>
+    <td>
+      <a href="https://x.com/AnglerFishart13" text-decoration:none;">
+        Anglerfishart
       </a>
     </td>
     <td>Collaborator</td>
