@@ -64,6 +64,16 @@ BeetleBox Studios is a creative team based in Philadelphia, developing interacti
     <td>Collaborator</td>
   </tr>
 
+  <tr>
+    <td><strong>Puzzle design</strong></td>
+    <td>
+      <a href="https://hutt3.itch.io/" text-decoration:none;">
+        hutthutthutt
+      </a>
+    </td>
+    <td>Collaborator</td>
+  </tr>
+
 </table>
 
 <hr>
