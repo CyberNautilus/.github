@@ -78,6 +78,19 @@ BeetleBox Studios is a creative team based in Philadelphia, developing interacti
 
 <hr>
 
+### Katami: A Paper Story
+
+
+<img src="https://raw.githubusercontent.com/beetlebox-studios/branding-assets/main/project_thumbnails/katami_thumbnail.png" 
+  alt="Molith Banner"
+  width="260"
+  style="display:block; margin-bottom:6px;"/>
+
+
+<p style="max-width:260px; color:#444;">
+  <strong style="color:#e77046;">Katami</strong> is a handcrafted puzzle game about paper, patience, and finding the shape of a friendship. <a href="https://store.steampowered.com/app/3828230/KATAMI_A_Paper_Story/" text-decoration:none;"> Launch Here </a>
+</p>
+
 ### BubbleFish
 
 <img
